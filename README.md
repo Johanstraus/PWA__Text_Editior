@@ -22,7 +22,7 @@ To start the server a user must first install the required dependancies for both
 ## Screenshots
 
 As shown below, this is what the text editor will look like upon load
-![alt text](Develop/assets/Main_PWA.png)
+![alt text](![Alt text](assets/Main_PWA.png))
 [Heroku Deployment](https://pwa-p.herokuapp.com/)
 
 
